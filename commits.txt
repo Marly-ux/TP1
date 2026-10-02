@@ -92,3 +92,4 @@ Date:   Tue Sep 22 10:43:35 2026 +0200
     Merge pull request #1 from Marly-ux/marly
     
     Marly
+# Les SHA1 ont changé par rapport à avant rebase
