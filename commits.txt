@@ -134,6 +134,78 @@ Date:   Tue Sep 22 10:49:49 2026 +0200
 
     Merge branch 'rayane'
 
-commit 8cbe86fbadea85e9324aa1b03d56876c6f4beedf
-Author: Rayane34 <rayane3404@gmail.com>
-Date:   Tue Sep 22 10:48:47 2026 +0200
+
+
+
+
+# ETAPE5
+# historique de feat1
+ommit ddf03f852f735b38c56beb93cf77569fbc385037 (HEAD -> feat1)
+Merge: ba572de 748b47f
+Author: Marlyatou <marlyatou086@gmail.com>
+Date:   Fri Oct 2 12:52:51 2026 +0200
+
+    Merge branch 'main' into feat1
+
+commit 748b47fcbedbeaeeeaa1615c45c5b0b9bb350536 (origin/main, origin/HEAD, main)
+Author: Marlyatou <marlyatou086@gmail.com>
+Date:   Fri Oct 2 12:50:34 2026 +0200
+
+    qf2
+
+commit ad22a02733a0663321f50a2f149119d22ef8903d
+Author: Marlyatou <marlyatou086@gmail.com>
+Date:   Fri Oct 2 12:50:16 2026 +0200
+
+    qf1
+
+commit ba572de298bf6366e39a50bfb3d66ced70022be9
+Author: Marlyatou <marlyatou086@gmail.com>
+Date:   Fri Oct 2 12:48:05 2026 +0200
+
+    ajout de test2
+
+commit b3d03229c5ea273614edb36bd42875686e941bb5
+Author: Marlyatou <marlyatou086@gmail.com>
+Date:   Fri Oct 2 12:47:51 2026 +0200
+
+    ajout de test1
+
+commit cc07810f162bcbd42ebced94a91d87d34e968250 (origin/feat1)
+Author: Rayane34 <147428210+Rayane34@users.noreply.github.com>
+Date:   Fri Oct 2 12:42:30 2026 +0200
+
+    Create test.txt
+
+commit d0e0ac001047fb39032886e5c4e55c189bbce06d
+Author: Rayane34 <147428210+Rayane34@users.noreply.github.com>
+Date:   Fri Oct 2 12:36:25 2026 +0200
+
+    Initial commit
+
+
+# Historique de main
+
+commit 748b47fcbedbeaeeeaa1615c45c5b0b9bb350536 (HEAD -> main, origin/main, origin/HEAD)
+Author: Marlyatou <marlyatou086@gmail.com>
+Date:   Fri Oct 2 12:50:34 2026 +0200
+
+    qf2
+
+commit ad22a02733a0663321f50a2f149119d22ef8903d
+Author: Marlyatou <marlyatou086@gmail.com>
+Date:   Fri Oct 2 12:50:16 2026 +0200
+
+    qf1
+
+commit cc07810f162bcbd42ebced94a91d87d34e968250 (origin/feat1)
+Author: Rayane34 <147428210+Rayane34@users.noreply.github.com>
+Date:   Fri Oct 2 12:42:30 2026 +0200
+
+    Create test.txt
+
+commit d0e0ac001047fb39032886e5c4e55c189bbce06d
+Author: Rayane34 <147428210+Rayane34@users.noreply.github.com>
+Date:   Fri Oct 2 12:36:25 2026 +0200
+
+    Initial commit
