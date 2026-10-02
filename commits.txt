@@ -93,3 +93,47 @@ Date:   Tue Sep 22 10:43:35 2026 +0200
     
     Marly
 # Les SHA1 ont changé par rapport à avant rebase
+
+
+# Historique de main ETAPE4
+Author: Marly-ux <marlyatou086@gmail.com>
+Date:   Fri Oct 2 12:03:59 2026 +0200
+
+    Document SHA1 changes due to rebase
+    
+    Add note about SHA1 changes after rebase
+
+commit 5dc6de686eb7476a65a1f4652462bd425db52451
+Author: Marly-ux <marlyatou086@gmail.com>
+Date:   Fri Oct 2 12:00:44 2026 +0200
+
+    Update commit history in commits.txt
+
+commit cf1ee49ec2d19cb0bee6a5b8a789cb8b5119da24
+Author: Marly-ux <marlyatou086@gmail.com>
+Date:   Fri Oct 2 11:49:17 2026 +0200
+
+    Add commit history for feat1 branch
+
+commit 53a4bd5526ca60c19fe77beb16a1018b5a690646
+Author: Rayane34 <rayane3404@gmail.com>
+Date:   Tue Sep 22 11:09:25 2026 +0200
+
+    quick fix 2
+
+commit 4f9c2467d94a69e756c4d1f3453a84a18b9caab9
+Author: Rayane34 <rayane3404@gmail.com>
+Date:   Tue Sep 22 11:08:36 2026 +0200
+
+    quick fix 1
+
+commit 002c09a37114298e2d89971ea724e1d1abf2a49f
+Merge: 0c47936 8cbe86f
+Author: Rayane34 <rayane3404@gmail.com>
+Date:   Tue Sep 22 10:49:49 2026 +0200
+
+    Merge branch 'rayane'
+
+commit 8cbe86fbadea85e9324aa1b03d56876c6f4beedf
+Author: Rayane34 <rayane3404@gmail.com>
+Date:   Tue Sep 22 10:48:47 2026 +0200
